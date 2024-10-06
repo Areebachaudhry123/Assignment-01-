@@ -12,4 +12,4 @@ In the end, we pushed all our work to the main branch and pulled it into our loc
  Overall, my experience using Git and GitHub for this project was very positive. I learned that GitHub makes collaboration
  easy and efficient, even when working with a partner. I didn't know it would be so straightforward to manage our project with Git. 
 The ability to track changes, resolve conflicts, and work on separate branches helped us stay organized and focused.
- This experience has shown me the many advantages of using Git and GitHub, and I will definitely use these tools in future projects.
+ This experience has shown me the many advantages of using Git and GitHub, and I will definitely use these tools in future projects..
