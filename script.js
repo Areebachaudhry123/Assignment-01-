@@ -76,3 +76,27 @@ $(document).ready(function() {
 
 });
 
+$(document).ready(function() {
+
+  //Initial content revealing js
+  ScrollReveal({
+    distance: "100px",
+    duration: 2000,
+    delay: 200
+  });
+
+  ScrollReveal().reveal(".header a, .profile-photo, .about-content, .education", {
+    origin: "left"
+  });
+  ScrollReveal().reveal(".header ul, .profile-text, .about-skills, .internship", {
+    origin: "right"
+  });
+  ScrollReveal().reveal(".project-title, .contact-title", {
+    origin: "top"
+  });
+  ScrollReveal().reveal(".projects, .contact", {
+    origin: "bottom"
+  });
+
+});
+
