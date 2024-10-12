@@ -15,13 +15,12 @@ You will see the portfolio website with interactive features.
 
 
 
-#### Tools and Technologies Used ####
+#### Tools and Technologies Used ######
 
 HTML: For the structure of the website.
 CSS: For styling and layout of the website.
 JavaScript: For interactivity and animations.
 Git & GitHub: For version control and hosting the project.
-
 
 #### Key Actions Taken During the Project ####
 
