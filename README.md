@@ -22,7 +22,6 @@ CSS: For styling and layout of the website.
 JavaScript: For interactivity and animations.
 Git & GitHub: For version control and hosting the project.
 
-
 #### Key Actions Taken During the Project ####
 
 Created the project structure with index.html, style.css, and script.js files.
